@@ -1,0 +1,20 @@
+{
+  "name": "gogocode-plugin-lodash",
+  "version": "0.0.1",
+  "description": "把项目中的注入的全局 _ 和 lodash 替换为 lodash-es ",
+  "keywords": [
+    "gogocode",
+    "ast",
+    "lodash",
+    "lodash-es"
+  ],
+  "main": "transform.js",
+  "author": "arron",
+  "license": "ISC",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "gogocode": "^1.0.48"
+  }
+}
