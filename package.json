@@ -1,6 +1,6 @@
 {
   "name": "gogocode-plugin-lodash",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "把项目中的注入的全局 _ 和 lodash 替换为 lodash-es ",
   "keywords": [
     "gogocode",

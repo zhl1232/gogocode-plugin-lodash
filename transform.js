@@ -16,7 +16,7 @@ module.exports = function (fileInfo, api, options) {
     return sourceCode;
   }
   const isSFC = /\.vue$/.test(fileInfo.path);
-
+  console.log(fileInfo.path);
   // 根据不同的文件获取对应的 ast
   let ast;
   let sfcAst;
