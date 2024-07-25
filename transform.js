@@ -1,4 +1,3 @@
-const rules = require('./rules/index');
 
 /**
  * 转换入口导出一个函数，按照如下函数签名
